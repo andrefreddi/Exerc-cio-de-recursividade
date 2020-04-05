@@ -16,8 +16,8 @@ int main(){
 
 	system("cls");
 	
-	for(cont = n; cont >= 0; cont--){
-		
+	for(cont = n; cont >= 1; cont--){
+			
 	resultado = resultado*x;	
 		
 	}
