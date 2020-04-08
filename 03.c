@@ -36,5 +36,7 @@ int main(){
    scanf("%d",&aux);
    verifica(numero);
    printf(" > Vezes de numeros repetidos:\n > %d",k);
+   printf("\n\n");
+   system("pause");
    return 0;
 }
